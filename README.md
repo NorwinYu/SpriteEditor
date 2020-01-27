@@ -17,7 +17,10 @@ This is a JavaFX program.
 
 ### Sprite Editor Video (1080p)
 
+- [Youtube]
 [![Video](https://img.youtube.com/vi/IfbyuPeOLWQ/0.jpg)](https://www.youtube.com/watch?v=IfbyuPeOLWQ)
+- [Bilibili]
+[![Video](https://img.youtube.com/vi/IfbyuPeOLWQ/0.jpg)](https://www.bilibili.com/video/av85357576/)
 
 - Speech created from: [Free online Text to Speech](http://www.texttomp3.online/)
 - Icon downloaded from: [FLATICON](https://www.flaticon.com/)
