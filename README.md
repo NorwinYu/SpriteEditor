@@ -1,6 +1,6 @@
-# UNUK-SWM-2017-SpriteEditor
+# SpriteEditor
 
-This code is my assignment when I was studying **SOFTWARE MAINTENANCE** at **University of Nottingham, UK** in 2017 as a third year undergraduate student. Because I was looking for a job to write a resume and backed up my school day code, the code was uploaded and made public on January 27, 2020.
+This code is my assignment when I was studying **SO.FTWARE MA.INTE.ANC.E** at **Univ.er.sity o.f Not.tingha.m, U.K** in 2017 as a third year undergraduate student. Because I was looking for a job to write a resume and backed up my school day code, the code was uploaded and made public on January 27, 2020.
 
 Part of the code involves student ID, name, and specific server information has been changed, which may affect a small part of reading.
 
