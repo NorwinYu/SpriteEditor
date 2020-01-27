@@ -6,7 +6,7 @@ Part of the code involves student ID, name, and specific server information has 
 
 This is a JavaFX program.
 
-##Sprite Editor
+## Sprite Editor
 
 [Javadoc](http://sprite-editor-javadoc.oss-cn-beijing.aliyuncs.com/index.html)
 
